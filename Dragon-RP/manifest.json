@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dragon Bedrock RP",
+    "description": "Dragon Bedrock Resource Pack",
+    "uuid": "7c35d54e-0c11-4f20-a5e6-39e90b2f8a11",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b29a7f43-5e18-4b6c-9d20-1f63a8e7c504",
+      "version": [1, 0, 0]
+    }
+  ]
+}
