@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Dragon Bedrock BP",
+    "description": "Dragon Bedrock Behavior Pack",
+    "uuid": "e81c7a24-6d53-4b90-a2f1-83d7c5e60942",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "a46d2e91-8f70-43b5-bc16-59e2d7401a83",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "7c35d54e-0c11-4f20-a5e6-39e90b2f8a11",
+      "version": [1, 0, 0]
+    }
+  ]
+}
