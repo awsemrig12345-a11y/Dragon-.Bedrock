@@ -1,0 +1,7 @@
+{
+  "format_version": "1.19.30",
+  "dragon:tin_ore": {
+    "sound": "stone",
+    "textures": "tin_ore"
+  }
+}
