@@ -11,14 +11,7 @@
       "minecraft:destructible_by_mining": {
         "seconds_to_destroy": 3.0
       },
-      "minecraft:map_color": "#A6A6A6",
-      "minecraft:geometry": "minecraft:geometry.full_block",
-      "minecraft:material_instances": {
-        "*": {
-          "texture": "tin_ore",
-          "render_method": "opaque"
-        }
-      }
+      "minecraft:map_color": "#A6A6A6"
     }
   }
 }
